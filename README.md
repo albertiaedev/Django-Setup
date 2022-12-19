@@ -16,6 +16,14 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 ```git@github.com:jesusalberto18/Django-Setup.git```
 
+```
+NOTE: This project contains 2 important folders named 'Main' & 'App'. 'Main' contains the
+main documents for this project, when you create a new projectthis folder inside it is named
+after (in this case, it creates a Django-Setup folder inside the Django-Setup project), for
+a better explanation it was renamed as 'Main', you could rename it anything you want and there
+won't be an error.
+```
+
 Or you could start a project from scratch if you prefer...
 
 ### 2. Starting a Django project
