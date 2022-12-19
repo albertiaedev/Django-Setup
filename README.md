@@ -18,7 +18,7 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 ```
 NOTE: This project contains 2 important folders named 'Main' & 'App'. 'Main' contains the
-main documents for this project, when you create a new projectthis folder inside it is named
+main documents for this project, when you create a new project this folder inside it is named
 after (in this case, it creates a Django-Setup folder inside the Django-Setup project), for
 a better explanation it was renamed as 'Main', you could rename it anything you want and there
 won't be an error.
