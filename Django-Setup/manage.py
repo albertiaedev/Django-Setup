@@ -20,3 +20,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    
+    
+'''
+Django-Setup
+by J.A. Hernández
+'''
