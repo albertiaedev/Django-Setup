@@ -10,11 +10,13 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 ##### HTTPS
 
-```https://github.com/jesusalberto18/Django-Setup.git```
+```git clone https://github.com/jesusalberto18/Django-Setup.git```
 
 #### SSH
 
-```git@github.com:jesusalberto18/Django-Setup.git```
+```git clone git@github.com:jesusalberto18/Django-Setup.git```
+
+And that's it! It creates a local copy of this repository in your machine.
 
 ```
 NOTE: This project contains 2 important folders named 'Main' & 'App'. 'Main' contains the
