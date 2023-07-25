@@ -40,12 +40,6 @@ Then activate your virtual environment by ```cd``` to it and type:
 
 Once you've done it, you can initialize a new project by typing the next line in your terminal/cmd:
 
-## Donate
-
-<a href="https://www.paypal.com/paypalme/j2al444">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-</a>
-
 ```django-admin startproject {project_name}```
 
 Then ```cd``` to your new project and migrate the database to enable it for your project, you do so by typing:
@@ -65,3 +59,9 @@ You should see your new project running at your ```localhost:8000```
 or ```https://127.0.0.1:8000```
 
 #### Congratulations! You have now created your first project on Django :snake:
+
+## Donate
+
+<a href="https://www.paypal.com/paypalme/j2al444">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a>
